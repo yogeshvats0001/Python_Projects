@@ -1,0 +1,8 @@
+Web scraping is a term used to describe the use of a program or algorithm to extract and process large amounts of data from the web. Whether you are a data scientist, engineer, or anybody who analyzes large amounts of datasets, the ability to scrape data from the web is a useful skill to have.
+OR 
+It is the way to extract the data from the webssite for own purposes or for tracking the things (e.g., price tracker, to know the temp,).
+
+//Steps:
+1. Install py
+2. Install beautiful Soup and also refer to its documentation (pip install beautifulsoup4)
+3. Install requests (pip install requests)
